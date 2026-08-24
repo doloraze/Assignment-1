@@ -1,0 +1,26 @@
+h1 {
+  color: #1de7cc;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+p {
+  color: #1a9db4;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+body {
+  background-color: #caffff;
+  margin: 0;
+  padding: 20px;
+}
+
+.highlight {
+  background-color: rgb(252, 252, 132);
+}
+
+#main-title {
+  font: 100% Times New Roman, serif;
+  font-size: 40px;
+}
