@@ -29,3 +29,14 @@ body {
 ol {
   margin-bottom: 24px;
 }
+
+.my-navbar {
+  background-color: #fdf0f3;
+  padding: 15px;   
+  border: 2px solid #030926; 
+  margin: 20px 0px; 
+}
+
+nav a:hover {
+  color: #2E86AB;
+}
